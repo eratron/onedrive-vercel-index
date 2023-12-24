@@ -25,7 +25,7 @@ const Auth: FC<{ redirect: string }> = ({ redirect }) => {
       <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{t('Youre Not Allowed !')}</div>
 
       <p className="text-sm font-medium text-gray-500">
-        {t('You are banned / do not have access to this private area of Alone Coder. This is an Secret Drive and it is to be protected from assholes like you. Either get access from my Boss or get your ass out of this site or I'll Fuck Your Life !') +
+        {t('You are banned or do not have access to this private area of Alone Coder. This is an Secret Drive and it is to be protected from assholes like you. Either get access from my Boss or get your ass out of this site or I will Fuck Your Life !') +
           t('If you bought access to this page or You're my Boss, Enter the access code below !')}
       </p>
 
