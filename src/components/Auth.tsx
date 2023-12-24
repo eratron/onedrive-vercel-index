@@ -22,7 +22,7 @@ const Auth: FC<{ redirect: string }> = ({ redirect }) => {
       <div className="mx-auto w-3/4 md:w-5/6">
         <Image src={'/images/fabulous-wapmire-weekdays.png'} alt="authenticate" width={912} height={912} priority />
       </div>
-      <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{t('You're Not Allowed !')}</div>
+      <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{t('Youre Not Allowed !')}</div>
 
       <p className="text-sm font-medium text-gray-500">
         {t('You are banned / do not have access to this private area of Alone Coder. This is an Secret Drive and it is to be protected from assholes like you. Either get access from my Boss or get your ass out of this site or I'll Fuck Your Life !') +
